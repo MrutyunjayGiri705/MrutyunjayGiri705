@@ -1,4 +1,4 @@
-![logo](https://github.com/MrutyunjayGiri705/MrutyunjayGiri705/blob/main/cse%20logo)
+![logo](https://github.com/MrutyunjayGiri705/MrutyunjayGiri705/blob/main/file_000000001a4062098c73842443ef7a83.png)
 
 <h1 align="center">Hi 👋, I'm Mrutyunjay Giri</h1>
 
