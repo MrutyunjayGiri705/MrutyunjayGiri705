@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MrutyunjayGiri705/MrutyunjayGiri705/blob/main/loga2.png)
 
 <h1 align="center">Hi 👋, I'm Mrutyunjay Giri</h1>
 
