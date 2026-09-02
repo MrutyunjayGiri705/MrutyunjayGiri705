@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mrutyunjay giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrutyunjay giri" height="30" width="40" /></a>
-<a href="https://instagram.com/12_babulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12_babulu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrutyunjay-giri-349b3b381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrutyunjay giri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mrutyunjay__23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12_babulu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
