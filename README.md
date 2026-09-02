@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mrutyunjay Giri</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrutyunjaygiri705&label=Profile%20views&color=0e75b6&style=flat" alt="mrutyunjaygiri705" /> </p>
 
